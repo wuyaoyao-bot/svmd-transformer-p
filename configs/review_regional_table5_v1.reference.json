@@ -1,0 +1,272 @@
+{
+  "input_series": {
+    "EU": {
+      "path": "EU_REC_Raw.csv",
+      "sha256": "745c5a1e2f8f58ea9fdcfc71c282efb4e715d3198c9720a619de5c3732f875c9",
+      "finite_hours": {
+        "2002": 8712,
+        "2003": 8760,
+        "2004": 8784,
+        "2005": 8760,
+        "2006": 8760,
+        "2007": 8760,
+        "2008": 8784,
+        "2009": 8760,
+        "2010": 8760,
+        "2011": 8760,
+        "2012": 8784,
+        "2013": 8760,
+        "2014": 8760,
+        "2015": 8760,
+        "2016": 8784,
+        "2017": 8760,
+        "2018": 8760,
+        "2019": 8760,
+        "2021": 8760,
+        "2022": 8760,
+        "2023": 8760
+      }
+    },
+    "NA": {
+      "path": "NA_REC_Raw.csv",
+      "sha256": "9fdeae9c9fe9fe2eb2af924449e1558cd9edb718cf74075fa810a8df51a0384a",
+      "finite_hours": {
+        "2002": 8712,
+        "2003": 8760,
+        "2004": 8784,
+        "2005": 8760,
+        "2006": 8760,
+        "2007": 8760,
+        "2008": 8784,
+        "2009": 8760,
+        "2010": 8760,
+        "2011": 8760,
+        "2012": 8784,
+        "2013": 8760,
+        "2014": 8760,
+        "2015": 8760,
+        "2016": 8784,
+        "2017": 8760,
+        "2018": 8760,
+        "2019": 8760,
+        "2021": 8760,
+        "2022": 8760,
+        "2023": 8760
+      }
+    },
+    "EA": {
+      "path": "EA_REC_Raw.csv",
+      "sha256": "4c4ab0c6e16aa5b0bd3a56fa396891ed9cfc698a5c0c5b57fbfdd4b3c344b9a1",
+      "finite_hours": {
+        "2002": 8712,
+        "2003": 8760,
+        "2004": 8784,
+        "2005": 8760,
+        "2006": 8760,
+        "2007": 8760,
+        "2008": 8784,
+        "2009": 8760,
+        "2010": 8760,
+        "2011": 8760,
+        "2012": 8784,
+        "2013": 8760,
+        "2014": 8760,
+        "2015": 8760,
+        "2016": 8784,
+        "2017": 8760,
+        "2018": 8760,
+        "2019": 8760,
+        "2021": 8760,
+        "2022": 8760,
+        "2023": 8760
+      }
+    },
+    "SAM": {
+      "path": "SAM_REC_Raw.csv",
+      "sha256": "58f4996934cdcd0dbe9951fb05f3ba91c4059d30bebac7face033814ec840d9c",
+      "finite_hours": {
+        "2002": 8712,
+        "2003": 8760,
+        "2004": 8784,
+        "2005": 8760,
+        "2006": 8760,
+        "2007": 8760,
+        "2008": 8784,
+        "2009": 8760,
+        "2010": 8760,
+        "2011": 8760,
+        "2012": 8784,
+        "2013": 8760,
+        "2014": 8760,
+        "2015": 8760,
+        "2016": 8784,
+        "2017": 8760,
+        "2018": 8760,
+        "2019": 8760,
+        "2021": 8760,
+        "2022": 8760,
+        "2023": 8760
+      }
+    },
+    "LL": {
+      "path": "LL_REC_Raw.csv",
+      "sha256": "4f00f4af2c815f640b0c574d4ff172bd7e5cf44d26bfe41712b48149f13ff912",
+      "finite_hours": {
+        "2002": 8712,
+        "2003": 8760,
+        "2004": 8784,
+        "2005": 8760,
+        "2006": 8760,
+        "2007": 8760,
+        "2008": 8784,
+        "2009": 8760,
+        "2010": 8760,
+        "2011": 8760,
+        "2012": 8784,
+        "2013": 8760,
+        "2014": 8760,
+        "2015": 8760,
+        "2016": 8784,
+        "2017": 8760,
+        "2018": 8760,
+        "2019": 8760,
+        "2021": 8760,
+        "2022": 8760,
+        "2023": 8760
+      }
+    },
+    "GEC": {
+      "path": "GEC_REC_Raw.csv",
+      "sha256": "c2dc81929f7846d1ba6df08aaac6db2cb5267c047780dd03431595be0c248b88",
+      "finite_hours": {
+        "2002": 8712,
+        "2003": 8760,
+        "2004": 8784,
+        "2005": 8760,
+        "2006": 8760,
+        "2007": 8760,
+        "2008": 8784,
+        "2009": 8760,
+        "2010": 8760,
+        "2011": 8760,
+        "2012": 8784,
+        "2013": 8760,
+        "2014": 8760,
+        "2015": 8760,
+        "2016": 8784,
+        "2017": 8760,
+        "2018": 8760,
+        "2019": 8760,
+        "2021": 8760,
+        "2022": 8760,
+        "2023": 8760
+      }
+    }
+  },
+  "dst_sha256": {
+    "omni2_2002.dat": "ad0316866abee6f17741e8940d02f8199570ce8a107e2cb45c2eff01972a560a",
+    "omni2_2003.dat": "cb1fcee0f95af4c318b239617bbb46f6e41c811bdca8464cf397eb7fd2fb7fc9",
+    "omni2_2004.dat": "5538ae44d3476bb84eb963d6892537a085a9707a296cd57d6a1960ea43f89b90",
+    "omni2_2005.dat": "9b99d08300d8e2a2cbeaeab073b2e0d83e31b5c925c0f465860430602ad07102",
+    "omni2_2006.dat": "27db7ba84a0889b0438fd4428e26128a2235bcf9e30b2a77bf678fab531bf4ea",
+    "omni2_2007.dat": "2bdae448301e6de3863e78643178628e3bcd39dee2aea111fe523d1e393217e7",
+    "omni2_2008.dat": "3115c8f3c1d28eaca6a4ada84ca2f36865d36d2b2db1c4f8a4c4ba667ac1e274",
+    "omni2_2009.dat": "1b8e29b6fd31b6b187dbad5499367526c8b34744f87dcc5aaaedb47c9e50f651",
+    "omni2_2010.dat": "5a70010684b553f740b95b31fb56d6ab99b0d545c6f02b11dd84141bbd8b60cb",
+    "omni2_2011.dat": "9a93c0e8b563a8ca6ae9c76448d2140ad00574ef65abc7a6504fdad1c3a196ce",
+    "omni2_2012.dat": "342612e8ed98fcc5952e4f33e3de92c657d6682728722716d68930b981f87faf",
+    "omni2_2013.dat": "46db595b661833960638cb1c44a9c90df55769907bdf1473ad5d9feb68e3d0d9",
+    "omni2_2014.dat": "8078580877128e53904084bf22cd712b347deb33c8db5133876baa19be2f57c0",
+    "omni2_2015.dat": "aaa291634e011715066ddcf59028e4db16d92495ebca88e4ac034edd1f0f4b19",
+    "omni2_2016.dat": "9a2be4f3e975ff307fcfcca5fc1a5d4cb9f04942a0aae47d9c3529303b51c51e",
+    "omni2_2017.dat": "b53494bc4fa719da1a5e6914c93307d2c9cfa1fa77abb3883e5925bfc9e0b3bc",
+    "omni2_2018.dat": "2f4b43cc5106d856a4765581eaf277f10506c002d72d927b21eca85776ae0b04",
+    "omni2_2019.dat": "8f4e57f313687b4fb86865dbb2df06adf414c7e496b99893b86013d91744b48e",
+    "omni2_2021.dat": "c7a68a97abddd6842f26225b6ac5761cdb2f375aca2b5f53b752f7158ed2f211",
+    "omni2_2022.dat": "413ac4895d24cab0af4861710c437f12efab44f3cd6c814a614815fa0f2c8d88",
+    "omni2_2023.dat": "df74e09c22b126841835c0add8c46933b93118c33a1978f7e977f9488cf7d743"
+  },
+  "solver_sha256": "d968f711c5e6758b2a4369c89f165763dc1319540e31c29e49187d8a8e514402",
+  "code_sha256": {
+    "code_gim_1h_pilot_v1.py": "ee24448d4bee39398062b1175615187fc24440f678003a628dfd29741ac4604b",
+    "code_gim_main_baselines_2002_2023_v1.py": "aa6a9861a26f19e0aa1e7d700de188ea244f64139f7d3f6fea7b09e36db54b5f",
+    "code_gim_main_svmd_2002_2023_v1.py": "94eb8c1081782b2fa8a868329e5fe39cb4d2ff702e76b4b79ba4493486636201",
+    "code_gim_main_pmsc_2002_2023_v1.py": "102df4d4bf01264aba7610c7ba13001cf699c88fd01a979f2af9f4c8397c4fec",
+    "code_gim_review_storm_events_2021_2023_v1.py": "a30ff8ce8d11283adff0adaa2c712737660cf07cec0db8749458a099af6f1bc8",
+    "code_gim_review_fourier_thresholds_v1.py": "4dcd33dc99acd6467e267a917fef1931349a6b4940f08a95155aa64601936efd"
+  },
+  "script_sha256": "79a069e038db6dd00898571075f1702b6f9f14c6a63d26bfd36cb88ac82b37bd",
+  "time_basis": "nominal archive CSV timestamps",
+  "regions": [
+    "EU",
+    "NA",
+    "EA",
+    "SAM",
+    "LL",
+    "GEC"
+  ],
+  "excluded_years": [
+    2020
+  ],
+  "split_years": {
+    "train": [
+      2002,
+      2017
+    ],
+    "validation": [
+      2018,
+      2020
+    ],
+    "test": [
+      2021,
+      2023
+    ]
+  },
+  "history_hours": 72,
+  "lead_hours": 1,
+  "cross_year_windows": false,
+  "train_validation_stride": 3,
+  "seed": 42,
+  "models": [
+    "persistence",
+    "lstm",
+    "transformer",
+    "transformer_dst",
+    "svmd_unconstrained",
+    "fixed_12",
+    "adaptive_4"
+  ],
+  "arms": [
+    [
+      "transformer_dst",
+      "raw",
+      null
+    ],
+    [
+      "svmd_unconstrained",
+      "svmd",
+      null
+    ],
+    [
+      "fixed_12",
+      "svmd",
+      "fixed"
+    ],
+    [
+      "adaptive_4",
+      "svmd",
+      "adaptive"
+    ]
+  ],
+  "base_cap": 4.0,
+  "fixed_cap": 12.0,
+  "dst_sensitivity": 0.05,
+  "phys_weight": 0.05,
+  "device": "cuda",
+  "torch_version": "2.7.1+cu118",
+  "numpy_version": "2.4.3",
+  "storm_origin_threshold_nt": -30,
+  "storm_merge_hours": 48,
+  "storm_moderate_min_dst_nt": -50,
+  "storm_intense_min_dst_nt": -100
+}
